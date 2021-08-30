@@ -1,2 +1,1 @@
-# Boilerplate
-Boilerplate simples feito com create-react-app
+# Boilerplate feito com create-react-app
